@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="other/ic_ghost_logo.png" width="100%" alt="Ghost Messenger Banner"/>
-</p>
 
 <h1 align="center">👻 Ghost Messenger</h1>
 <h3 align="center">Privacy-First • Open Source • Next Generation Messaging</h3>
@@ -55,7 +52,7 @@
 ## 🌟 About Ghost Messenger
 
 <p align="center">
-  <img src="assets/ghost_logo.png" width="150" alt="Ghost Messenger Logo"/>
+  <img src="other/ic_ghost_logo.png" width="150" alt="Ghost Messenger Logo"/>
 </p>
 
 **Ghost Messenger** is a revolutionary, privacy-focused messaging application that puts user security and data protection at the forefront. Built from the ground up with modern technologies, Ghost Messenger offers a unique "Ghost Mode" feature that allows messages to disappear after a set time, ensuring your conversations remain truly private.
